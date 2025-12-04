@@ -2,7 +2,7 @@
 
 This project is a soccer-playing robot developed by the Nemesis team from Allame Helli 5 High School for the IranOpen RoboCup competition. The robot is designed to detect, chase, and control an infrared-emitting ball, navigate the field, and play both offensive and defensive roles.
 
-<p align="center"> <img src="./Picture1.jpg" width="500"> </p>
+<p align="center"> <img src="./Images/Picture1.jpg" width="500"> </p>
 
 ## 🛠 How it works
 - Ball detection using IR sensors (IRM8601S) placed around the robot.  
